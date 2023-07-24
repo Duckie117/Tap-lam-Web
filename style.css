@@ -1,0 +1,31 @@
+#noluon
+{
+    color: var(--text-color);
+    font-size: 30px;
+}
+#nodo
+{
+    color: red;
+    font-size: 30px;
+}
+:root 
+{
+    --text-color: red;
+    --image-height: 200px
+}
+.box
+{
+    background-color: bisque;
+    height: 15vw;
+    width: 100vw;
+    padding: 1% 0% 0% 5%;
+    box-sizing: border-box;
+}
+.box2
+{
+    background-color: brown;
+}
+.box3
+{
+    background-color: #234123;
+}
